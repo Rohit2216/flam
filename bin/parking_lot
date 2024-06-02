@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run the program and launch the shell
+node lib/parking_lot.js
